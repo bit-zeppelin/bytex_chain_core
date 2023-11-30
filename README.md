@@ -29,3 +29,9 @@ Once the dependencies are installed, run:
 ```bash
 make install
 ```
+
+## Live Link
+Network Name : Byte Test Chain
+Chain ID : 1919
+Currency Symbol : BYTE
+RPC URL : https://test-rpc.bytexc.org
